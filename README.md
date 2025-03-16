@@ -2,6 +2,9 @@
 
 A gamified task management application built with React, TypeScript, and Firebase. Complete daily tasks to gain experience points and level up your character!
 
+### In order to access app, you can use the link below and create an account
+ https://ziontasks.netlify.app/login
+
 ## Features
 
 - User authentication (signup/login)
@@ -56,3 +59,5 @@ A gamified task management application built with React, TypeScript, and Firebas
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+
+
