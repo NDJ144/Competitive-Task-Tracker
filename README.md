@@ -4,6 +4,14 @@ A gamified task management application built with React, TypeScript, and Firebas
 
 ### In order to access app, you can use the link below and create an account
  https://ziontasks.netlify.app/login
+ <img width="965" alt="image" src="https://github.com/user-attachments/assets/fa8fa21a-7a47-4bf0-97be-953ee732c92f" />
+
+### Then you will access the main page with a task view
+<img width="1167" alt="image" src="https://github.com/user-attachments/assets/155f8c82-9938-4939-a4a8-6443f376a7ab" />
+
+### If you sign in with a specific type of email, you get access to an admin dashboard to view specific users and assign tasks
+<img width="1176" alt="image" src="https://github.com/user-attachments/assets/0d135c02-ee1d-4d53-b93b-077bd29ca53e" />
+
 
 ## Features
 
